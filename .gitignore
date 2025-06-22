@@ -1,0 +1,29 @@
+# Ignore build files
+*.exe
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sdf
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Visual Studio project files
+*.vcxproj*
+*.ncb
+*.sln
+
+# OS-generated files
+.DS_Store
+Thumbs.db
